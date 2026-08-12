@@ -1,7 +1,7 @@
 class Lasagna
 {
     public int ExpectedMinutesInOven(){
-        return 40;
+        return 400;
     }
     public int RemainingMinutesInOven(int actualMinutesInOven){
         return 40 - actualMinutesInOven;
